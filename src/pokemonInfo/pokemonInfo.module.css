@@ -1,0 +1,13 @@
+.pokemon {
+    margin-top: 40px;
+    background-color:rgb(233, 233, 233);
+    border-radius: 4px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 8px;
+    width: 100%;
+}
+
+.pokemon img {
+    width: 140px;
+    object-fit: contain;
+}
